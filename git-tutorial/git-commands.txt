@@ -18,4 +18,6 @@ q : quite the commit history.
 
 git push: to push the commit history to github
 
+git push origin -master -f: thsi forcefully push commit to git and overide the initial commit
+
 
