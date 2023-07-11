@@ -1,0 +1,21 @@
+# lecture 1 on git tutorial
+
+git init : initialize a git repositorynon the local machine.
+
+git remote add origin: link the remote repo to the local repo(takes the url link nas an argument).
+
+git remote: gives us the list of remote that we are currently in.
+
+git remoe -v: gives us more details about the remoote we are linked.
+
+git remote remove: it takes the name of the repo we want to remove as an argument and removes it.
+
+git config --global --credential --username: configures your username to git
+
+git log --all --graph: gives us the commit history and the branch name.
+
+q : quite the commit history.
+
+git push: to push the commit history to github
+
+
