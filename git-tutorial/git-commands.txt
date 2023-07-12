@@ -20,4 +20,15 @@ git push: to push the commit history to github
 
 git push origin -master -f: thsi forcefully push commit to git and overide the initial commit
 
+git reset: this takes in the commit id as an argument and it uncommit any commit that has has been done.
 
+git stash:it leaves some changes in the stagging area.
+
+git stash pop: bring back files back to the stagging area.
+
+git stash clear:
+ 
+
+ TERMINOLOGIES IN GIT AND GITHUB
+
+ branch: 	
